@@ -1,4 +1,3 @@
-# FluteCMS-BaseShop-Module-CS2
 # Модуль Shop для FluteCMS
 
 Модуль магазина для продажи игровых привилегий и товаров.
