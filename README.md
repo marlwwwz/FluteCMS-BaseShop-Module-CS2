@@ -192,4 +192,10 @@ text
 12. **Помощники (helpers)**
 13. **Документацию**
 
+
 Модуль полностью функционален и соответствует всем требованиям из задания.
+<img width="1415" height="784" alt="image" src="https://github.com/user-attachments/assets/fdcf7994-1209-4140-bc77-19fcb33594eb" />
+<img width="1057" height="797" alt="image" src="https://github.com/user-attachments/assets/857e3826-c8c6-4b4d-b8f7-0e77f6531ed1" />
+<img width="1643" height="971" alt="image" src="https://github.com/user-attachments/assets/f120d5ec-253f-44c7-b1d2-f4f26640fb60" />
+<img width="1692" height="998" alt="image" src="https://github.com/user-attachments/assets/af2c1543-8a5d-4dd2-82de-ed48304995fe" />
+<img width="823" height="727" alt="image" src="https://github.com/user-attachments/assets/efd04f3f-1310-45f6-9db1-98384ee1396a" />
